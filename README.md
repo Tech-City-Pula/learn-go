@@ -22,3 +22,6 @@ Useful resources:
 - [Arrays](/examples/arrays)
 - [Slices](/examples/slices)
 - [Maps](/examples/maps)
+- [Range](/examples/range)
+- [Functions](/examples/functions)
+- [Multiple Return Values](/examples/multiple-return-values)
