@@ -25,3 +25,7 @@ Useful resources:
 - [Range](/examples/range)
 - [Functions](/examples/functions)
 - [Multiple Return Values](/examples/multiple-return-values)
+- [Variadic Functions](/examples/variadic-functions)
+- [Closures](/examples/closures)
+- [Recursion](/examples/recursion)
+- [Pointers](/examples/pointers)
