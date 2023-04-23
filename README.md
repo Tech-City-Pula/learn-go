@@ -17,3 +17,6 @@ Useful resources:
 - [Variables](/examples/variables)
 - [Constants](/examples/constants)
 - [For](/examples/for)
+- [If/Else](/examples/if-else)
+- [Switch](/examples/switch)
+- [Arrays](/examples/arrays)
