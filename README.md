@@ -10,6 +10,9 @@ Useful resources:
 
 ## Table of contents
 
-- [Hello World](/hello-world)
-- [Values](/values)
-- [Variables](/variables)
+### Examples:
+
+- [Hello World](/examples/hello-world)
+- [Values](/examples/values)
+- [Variables](/examples/variables)
+- [Constants](/examples/constants)
