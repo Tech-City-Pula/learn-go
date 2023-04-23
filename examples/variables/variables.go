@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// https://gobyexample.com/variables
 func main() {
 
 	var a = "initial"
