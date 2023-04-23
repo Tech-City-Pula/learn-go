@@ -20,3 +20,5 @@ Useful resources:
 - [If/Else](/examples/if-else)
 - [Switch](/examples/switch)
 - [Arrays](/examples/arrays)
+- [Slices](/examples/slices)
+- [Maps](/examples/maps)
