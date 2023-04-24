@@ -48,3 +48,8 @@ Useful resources:
 - [Range over Channels](/examples/range-over-channels/range-over-channels.go)
 - [Timers](/examples/timers/timers.go)
 - [Tickers](/examples/tickers/tickers.go)
+- [Worker Pools](/examples/worker-pools/worker-pools.go)
+- [WaitGroups](/examples/waitgroups/waitgroups.go)
+- [Rate Limiting](/examples/rate-limiting/rate-limiting.go)
+- [Atomic Counters](/examples/atomic-counters/atomic-counters.go)
+- [Mutexes](/examples/mutexes/mutexes.go)
