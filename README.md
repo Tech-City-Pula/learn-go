@@ -75,3 +75,8 @@ Useful resources:
 - [Base64 Encoding](/examples/base64-encoding/base64-encoding.go)
 - [Reading Files](/examples/reading-files/reading-files.go)
 - [Writing Files](/examples/writing-files/writing-files.go)
+- [Line Filters](/examples/line-filters/line-filters.go)
+- [File Paths](/examples/file-paths/file-paths.go)
+- [Directories](/examples/directories/directories.go)
+- [Temporary Files and Directories](/examples/temporary-files-and-directories/temporary-files-and-directories.go)
+- [Embed Directive](/examples/embed-directive/embed-directive.go)
