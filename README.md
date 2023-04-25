@@ -84,3 +84,4 @@ Useful resources:
 - [Command-Line Arguments](/examples/command-line-arguments/command-line-arguments.go)
 - [Command-Line Flags](/examples/command-line-flags/command-line-flags.go)
 - [Command-Line Subcommands](/examples/command-line-subcommands/command-line-subcommands.go)
+- [Environment Variables](/examples/environment-variables/environment-variables.go)
