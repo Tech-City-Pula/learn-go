@@ -80,3 +80,7 @@ Useful resources:
 - [Directories](/examples/directories/directories.go)
 - [Temporary Files and Directories](/examples/temporary-files-and-directories/temporary-files-and-directories.go)
 - [Embed Directive](/examples/embed-directive/embed-directive.go)
+- [Testing and Benchmarking](/examples/testing-and-benchmarking/testing-and-benchmarking.go)
+- [Command-Line Arguments](/examples/command-line-arguments/command-line-arguments.go)
+- [Command-Line Flags](/examples/command-line-flags/command-line-flags.go)
+- [Command-Line Subcommands](/examples/command-line-subcommands/command-line-subcommands.go)
