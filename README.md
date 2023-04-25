@@ -92,3 +92,8 @@ Useful resources:
 - [Exec'ing Processes](/examples/execing-processes/execing-processes.go)
 - [Signals](/examples/signals/signals.go)
 - [Exit](/examples/exit/exit.go)
+
+## Challenges:
+
+- [Challenge 1](/challenges/challenge1/challenge1.go)
+- [Challenge 2](/challenges/challenge2/challenge2.go)
