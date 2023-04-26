@@ -98,3 +98,8 @@ Useful resources:
 - [Challenge 1](/challenges/challenge1/challenge1.go)
 - [Challenge 2](/challenges/challenge2/challenge2.go)
 - [Challenge 3](/challenges/challenge3/challenge3.go)
+
+## How to contribute:
+
+- If you see something out of order, or something that could be improved, please open an issue or a pull request.
+- If you want to add a new example or challenge, please open a pull request, use the same directory structure as the other examples and challenges.
