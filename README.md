@@ -97,3 +97,4 @@ Useful resources:
 
 - [Challenge 1](/challenges/challenge1/challenge1.go)
 - [Challenge 2](/challenges/challenge2/challenge2.go)
+- [Challenge 3](/challenges/challenge3/challenge3.go)
